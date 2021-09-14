@@ -1,7 +1,7 @@
-consumer_key = "GFmH5xQvNaJPJoE4DZnz9oYRi"
-consumer_secret = "tY5yXzw0nRGVxNCMOkVDdU2uaLUo3bnyWZeXKRJdiUdiqhHJtx"
+consumer_key = ""
+consumer_secret = ""
 
-access_token = "1336131553425055750-whXlQIil1x8DGumyocOnS3Ov0CyqYl"
-access_token_secret = "ECj7sL68mSy2rmBWEL1cXqNAYyEywTgKnxM3cK8TqO1GT"
+access_token = ""
+access_token_secret = ""
 
-Bearer_Token = "AAAAAAAAAAAAAAAAAAAAAPg2KgEAAAAA28%2FYogARn%2Bf7LAS4e8b%2BX%2F9Iio8%3DxzDa2lBz30G6qTjvlhl4rwxHKQAVQJ7Buzfp3f4RcXOmtD4mjt"
+Bearer_Token = ""
